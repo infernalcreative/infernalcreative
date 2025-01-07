@@ -2,7 +2,7 @@
 - 👀 
 - 🌱 
 - 💞️ 
-- 📫 dick@bk.ru
+- 📫 gitmail@t3m4.ru
 
 <!---
 infernalcreative/infernalcreative is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
